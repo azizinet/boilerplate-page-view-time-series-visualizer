@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-import numpy as nppip
 from pandas.plotting import register_matplotlib_converters
 from matplotlib.dates import DateFormatter
 from calendar import month_name, month_abbr
